@@ -1,6 +1,7 @@
 **INTERN ID**: CITS8173 <br>
 **FULL NAME** : Katuri Thirdhasri <br>
 **NO.OF WEEKS** : 4 Weeks  <br>
+**PROJECT DOMAIN** : Frontend Web Development <br>
 **PROJECT NAME** : Digital Clock and Stop Watch <br>
 **PROJECT SCOPE** :  The project aims to develop a web-based Time Utility App that provides users with a Digital Clock and Stopwatch. It focuses on real-time time display, stopwatch controls, user interaction, page navigation, and web deployment using HTML, CSS, and JavaScript <br>
 
